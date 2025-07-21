@@ -28,7 +28,7 @@ Data cleaning and preparation were performed in Python, and the cleaned dataset 
 
 - Year-Wise Trends
 
--Transaction Details
+- Transaction Details
 
 - Hierarchical Transaction Drilldown
 
@@ -59,7 +59,6 @@ Data cleaning and preparation were performed in Python, and the cleaned dataset 
 - Data Handling: 1Cr+ records, JSON & CSV integration.
 
 # Dashboard Preview
-- (Screenshots included in the repository)
 
 - Home Page: Summary KPIs and business context
 
