@@ -3,6 +3,8 @@ This project provides an in-depth analysis of financial transactions using Power
 The dataset combines data from 5 different files, including two large JSON files (one containing over 1 crore rows).
 Data cleaning and preparation were performed in Python, and the cleaned dataset was imported into Power BI to create this interactive report.
 
+Note: The Power BI file is large, so I have uploaded screenshots of the report in this repository for easy viewing.
+
 # Project Highlights
 1. Data Sources:
 
